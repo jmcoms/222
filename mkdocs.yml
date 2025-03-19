@@ -1,8 +1,0 @@
-site_name: pornhub-Pornhub官方网站
-theme:
-  name: mkdocs
-nav:
-  - Home: index.md
-  - Guide: guide.md
-  - FAQ: faq.md
-  - Contact: contact.md
